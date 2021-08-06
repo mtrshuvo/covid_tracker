@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Check this links for live demo: https://covid-tracker-41336.web.app/
+Check this link for live demo: https://covid-tracker-41336.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
